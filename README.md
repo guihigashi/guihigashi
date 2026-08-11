@@ -1,51 +1,25 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Guilherme Higashi
+Software engineer working across full-stack applications and data integrations.
 
-###
+📍 Brazil · 💼 Open to opportunities · 🔗 [LinkedIn](#) · ✉️ [email](#)
 
-<p align="left">My name is Guilherme Higashi and I'm a developer from Brazil.</p>
+---
 
-###
+### Background
+Software engineer with a Bachelor's Degree in Economics and an Associate's Degree in Computer Science (Análise e Desenvolvimento de Sistemas). I work across full-stack applications and data integration pipelines, with a focus on clean architecture and domain-driven design.
 
-<h2 align="left">About me</h2>
+### Featured work
+**[realworld-polyglot](https://github.com/guihigashi/realworld-polyglot)**
+Full-stack implementation of the RealWorld spec (a standardized blog API + frontend), built to demonstrate Clean Architecture and DDD in practice — decoupled business rules, explicit entity behavior instead of generic setters, and a gateway service with JWT auth passing the full RealWorld test suite.
 
-###
+### Production stack
+`Go` `Scala (functional/effect systems)` `React` `PHP` `Laravel` `PostgreSQL` `ClickHouse`
 
-<p align="left">📚 I'm currently learning Functional Programming, ERP Design and Domain Driven Design</p>
+### Working knowledge
+`Flutter` `Python` `Julia` `R`
 
-###
+### Currently learning
+`Java` `C#` `Clean Architecture` `Domain-Driven Design`
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="scala logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
+---
+⭐ 81 stars · [Full repo list →](https://github.com/guihigashi?tab=repositories)
