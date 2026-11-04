@@ -1,25 +1,28 @@
 # Guilherme Higashi
-Software engineer working across full-stack applications and data integrations.
 
-📍 Brazil · 💼 Open to opportunities · 🔗 [LinkedIn](#) · ✉️ [email](#)
+**Full Stack Software Engineer**
+
+Building high-performance backend systems, distributed microservices, and reactive web applications with a focus on type safety, clean architecture, and developer tooling.
+
+🌐 [guihigashi.dev](https://guihigashi.dev) · 💼 [Toptal Profile](https://www.toptal.com/developers/resume/guilherme-higashi#NEwvVa) · ✉️ [guihigashi@gmail.com](mailto:guihigashi@gmail.com)
+
+---
+
+### Featured Projects
+
+- **[realworld-polyglot](https://github.com/guihigashi/realworld-polyglot)** ([Demo](https://rwa.guihigashi.dev/))  
+  Polyglot microservices platform implementing RealWorld spec across distributed backend systems and React client.  
+  *Stack: Go, Scala / ZIO, Spring Boot, Laravel, React*
+
+- **[realworld-studio](https://github.com/guihigashi/realworld-studio)**  
+  Autonomous human-in-the-loop AI publishing engine with deterministic LLM schema clamping, reactive non-blocking Skunk/PostgreSQL event pipeline, and Redis JWT caching.  
+  *Stack: Scala 3, ZIO 2, React 19, PostgreSQL, Skunk, Redis*
 
 ---
 
-### Background
-Software engineer with a Bachelor's Degree in Economics and an Associate's Degree in Computer Science (Análise e Desenvolvimento de Sistemas). I work across full-stack applications and data integration pipelines, with a focus on clean architecture and domain-driven design.
+### Core Competencies & Stack
 
-### Featured work
-**[realworld-polyglot](https://github.com/guihigashi/realworld-polyglot)**
-Full-stack implementation of the RealWorld spec (a standardized blog API + frontend), built to demonstrate Clean Architecture and DDD in practice — decoupled business rules, explicit entity behavior instead of generic setters, and a gateway service with JWT auth passing the full RealWorld test suite.
-
-### Production stack
-`Go` `Scala (functional/effect systems)` `React` `PHP` `Laravel` `PostgreSQL` `ClickHouse`
-
-### Working knowledge
-`Flutter` `Python` `Julia` `R`
-
-### Currently learning
-`Java` `C#` `Clean Architecture` `Domain-Driven Design`
-
----
-⭐ 81 stars · [Full repo list →](https://github.com/guihigashi?tab=repositories)
+- **Languages:** Go, Scala, Python, Dart, TypeScript / JavaScript, PHP, Java, SQL
+- **Backend & Systems:** ZIO, Spring Boot, Laravel, gRPC, REST APIs, Microservices
+- **Frontend:** React, TanStack Router, HTML5 / SCSS
+- **Data & Infra:** PostgreSQL, ClickHouse, Redis, Docker, Kubernetes, Cloudflare Workers, Git
