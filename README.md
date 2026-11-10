@@ -1,28 +1,24 @@
 # Guilherme Higashi
 
-**Full Stack Software Engineer**
+Full stack engineer. Go and Scala/ZIO on the backend, React on the front,
+PostgreSQL and ClickHouse underneath.
 
-Building high-performance backend systems, distributed microservices, and reactive web applications with a focus on type safety, clean architecture, and developer tooling.
+[guihigashi.dev](https://guihigashi.dev) · [Toptal](https://www.toptal.com/developers/resume/guilherme-higashi#NEwvVa) · guihigashi@gmail.com
 
-🌐 [guihigashi.dev](https://guihigashi.dev) · 💼 [Toptal Profile](https://www.toptal.com/developers/resume/guilherme-higashi#NEwvVa) · ✉️ [guihigashi@gmail.com](mailto:guihigashi@gmail.com)
+## Projects
 
----
+- **realworld-polyglot** ([demo](https://rwa.guihigashi.dev/)): the same
+  RealWorld spec implemented in Go, Scala/ZIO, Spring Boot and Laravel behind
+  one React client, to compare the stacks under identical requirements.
+- **realworld-studio**: AI-assisted publishing pipeline: LLM output is
+  validated against a strict schema, queued for human approval, then published
+  through a non-blocking Skunk/PostgreSQL event pipeline.
 
-### Featured Projects
+## Stack
 
-- **[realworld-polyglot](https://github.com/guihigashi/realworld-polyglot)** ([Demo](https://rwa.guihigashi.dev/))  
-  Polyglot microservices platform implementing RealWorld spec across distributed backend systems and React client.  
-  *Stack: Go, Scala / ZIO, Spring Boot, Laravel, React*
-
-- **[realworld-studio](https://github.com/guihigashi/realworld-studio)**  
-  Autonomous human-in-the-loop AI publishing engine with deterministic LLM schema clamping, reactive non-blocking Skunk/PostgreSQL event pipeline, and Redis JWT caching.  
-  *Stack: Scala 3, ZIO 2, React 19, PostgreSQL, Skunk, Redis*
-
----
-
-### Core Competencies & Stack
-
-- **Languages:** Go, Scala, Python, Dart, TypeScript / JavaScript, PHP, Java, SQL
-- **Backend & Systems:** ZIO, Spring Boot, Laravel, gRPC, REST APIs, Microservices
-- **Frontend:** React, TanStack Router, HTML5 / SCSS
-- **Data & Infra:** PostgreSQL, ClickHouse, Redis, Docker, Kubernetes, Cloudflare Workers, Git
+| Area     | Technologies                    |
+|----------|---------------------------------|
+| Backend  | Go, Scala (ZIO), PHP            |
+| Frontend | React                           |
+| Mobile   | Flutter, React Native           |
+| Data     | PostgreSQL, ClickHouse, Redis   |
